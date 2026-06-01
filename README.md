@@ -43,7 +43,10 @@ This project helped me practice:
 * Clipboard API
 * Responsive UI Design
 * CSS Animations
+* 
+📸 Preview
 
+![Random Password Generator Preview](preview.png)
 
  👨‍💻 Author
 
