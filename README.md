@@ -44,12 +44,9 @@ This project helped me practice:
 * Responsive UI Design
 * CSS Animations
 
-📸 Preview
-
-Add a screenshot of your project here after uploading one to the repository.
 
  👨‍💻 Author
 
-SYED ABSAR
+SYED NOOR UL ABSAR
 
 GitHub: https://github.com/syedabsar99
