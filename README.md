@@ -9,7 +9,7 @@ A modern and responsive Random Password Generator built using **HTML, CSS, and J
 
 ## 📸 Screenshot
 
-![Random Password Generator](images/screenshot.png)
+![Random Password Generator](preview.png)
 
 ## ✨ Features
 
