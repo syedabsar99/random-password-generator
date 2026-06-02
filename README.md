@@ -43,7 +43,7 @@ random-password-generator/
 ├── script.js
 ├── README.md
 └── images/
-    └── screenshot.png
+    └── preview.png
 ```
 
 ## 🎯 Learning Outcomes
