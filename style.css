@@ -175,3 +175,33 @@ body {
       0 0 40px #6366f1;
   }
 }
+
+@media (max-width: 480px) {
+  body {
+    padding: 16px 12px;
+  }
+  .container {
+    width: 100%;
+    padding: 28px 16px;
+    border-radius: 12px;
+  }
+  .container h1 {
+    font-size: 28px;
+  }
+  .input-box {
+    margin: 20px 0;
+    padding: 14px 10px;
+  }
+  .input-box input {
+    font-size: 15px;
+  }
+  #slider {
+    width: 100%;
+    margin: 24px 0 14px 0;
+  }
+  #passwordBtn {
+    padding: 14px 12px;
+    font-size: 14px;
+  }
+}
+
